@@ -1,0 +1,18 @@
+[
+    { 
+        "title": "Explore Georgian Cuisine", 
+        "btn-title": "Read More",
+        "image": "/images/foodbg1.webp" 
+    },
+    { 
+        "title": "Explore Foreign Cuisine", 
+        "btn-title": "Read More",
+        "image": "/images/foodbg2.jpg" 
+    },
+    { 
+        "title": "Explore Interesting Blogs", 
+        "btn-title": "Read More",
+        "image": "/images/slide-3.png" 
+    }
+
+]
