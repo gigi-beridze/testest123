@@ -71,6 +71,10 @@
     height: 100%;
     width: 100%;
 }
+.item-img {
+    max-width: 270px;
+    height: 270px;
+}
 @media screen and (max-width: 768px) {
     .title span {
         font-size: 22px;

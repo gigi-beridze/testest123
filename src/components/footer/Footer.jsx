@@ -6,11 +6,11 @@ const Footer = () => {
         <div className="footer">
             <div className="footer-section">
                 <div className="footer-about">
-                    <h3>about taplak</h3>
-                    <p>Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
+                    <h3>ABOUT OUR WEBSITE</h3>
+                    <p>The goal of the site is to create a multi-functional website where the user can choose a recipe, then follow the cooking instructions and ensure that the desired dish is prepared, knowing in advance the ingredients, time and nutritional value of the dish.</p>
                 </div>
                 <div className="footer-links">
-                    <h3>stay updated</h3>
+                    <h3>MORE ABOUT US</h3>
                     <div className="footer-links-ul">
                         <ul className="footer-nav">
                             <NavLink to="/">
@@ -45,21 +45,14 @@ const Footer = () => {
                             </NavLink>
                             <NavLink to="/">
                                 <img src="/images/mail.svg" alt="" />
-                                mail@gmail.com
+                                tastybites.contactus@gmail.com  
                             </NavLink>
                         </ul>
                     </div>
                 </div>
             </div>
             <div className="footer-end">
-                <p>© 2023 Taplak Web Template. Made with  &hearts; by Tasty Bites </p>
-                <ul>
-                    <NavLink to="/">Home</NavLink>
-                    <NavLink to="/">Recipes</NavLink>
-                    <NavLink to="/">Blog</NavLink>
-                    <NavLink to="/contact">Contact Us</NavLink>
-                    <NavLink to="/">About Us</NavLink>
-                </ul>
+                <p>© 2023 TASTYBITES. ALL RIGHTS RESERVED. </p>
             </div>
         </div>
     )

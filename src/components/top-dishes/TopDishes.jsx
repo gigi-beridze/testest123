@@ -7,7 +7,7 @@ const TopDishes = () => {
         <div className="topDishes">
             <div className="container">
                 <div className="title">
-                    <span>Top 5 Dishes of the Week</span>
+                    <span>TOP 5 DELICIOUS AND EASY-TO-MAKE RECIPES</span>
                 </div>
                 <div className="items">
                     {topDishesData.map((item) => (

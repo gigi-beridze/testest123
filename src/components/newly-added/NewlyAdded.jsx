@@ -58,7 +58,9 @@ const NewlyAdded = () => {
                     ))}
                 </div>
                 <div className="newlyAdded-button">
-                    <button>view all recipes</button>
+                    <NavLink to={`/recipes`}>
+                        <button>view all recipes</button>
+                    </NavLink>
                 </div>
             </div>
         </div>

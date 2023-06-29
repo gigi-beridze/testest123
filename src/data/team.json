@@ -17,7 +17,7 @@
     },
     { 
         "name": "მარიამ ანთიძე", 
-        "role": "Publisher",
+        "role": "Project Planner | Web Designer | Information Researcher",
         "image": "/images/mariami.jpg",
         "comment": "ამ პროექტზე მუშაობა ძალიან საინტერესო და დიდი გამოცდილების მომცემი იყო.",
         "github": "github.com",
@@ -25,7 +25,7 @@
     },
     { 
         "name": "ლანა დანდროშვილი", 
-        "role": "System Administrator",
+        "role": "Manual Tester | Information Researcher",
         "image": "/images/lana.jpg",
         "comment": "ამ პროექტზე მუშაობა ძალიან საინტერესო და დიდი გამოცდილების მომცემი იყო.",
         "github": "github.com",
@@ -33,7 +33,7 @@
     },
     { 
         "name": "ნინო დაუთაშვილი", 
-        "role": "Web Developerp",
+        "role": "MarkUper | Project Controller | Market Research Analyst | Information Researcher",
         "image": "/images/nino.jpg",
         "comment": "ამ პროექტზე მუშაობა ძალიან საინტერესო და დიდი გამოცდილების მომცემი იყო.",
         "github": "github.com",
